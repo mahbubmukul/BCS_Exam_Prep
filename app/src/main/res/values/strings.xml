@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BCS Exam Preparation</string>
+    <string name="app_name_test">BCS Exam Preparation Test</string>
+    <string name="app_name_debug_Live">BCS Exam Preparation Debug Live</string>
+    <string name="app_name_debug_test">BCS Exam Preparation Debug Test</string>
+
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="buy_points">Buy Points</string>
+    <string name="transfer_points">Transfer Points</string>
+    <string name="withdraw_points">Withdraw Points</string>
+
+
+    <!--Non Translatable Strings-->
+    <string name="facebook_app_id" translatable="false">1169537396416758</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1169537396416758</string>
+
+    <string name="text_continue">Continue</string>
+</resources>

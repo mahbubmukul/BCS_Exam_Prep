@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "663048202005",
+    "firebase_url": "https://priyo-438fd.firebaseio.com",
+    "project_id": "priyo-438fd",
+    "storage_bucket": "priyo-438fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663048202005:android:df781e1b42d15406",
+        "android_client_info": {
+          "package_name": "com.priyo.people"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663048202005-87bdmugvu5pr706och52gpu2oc8g8c88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyo.people",
+            "certificate_hash": "3ac523500d52a6e280ae84cebb6335ab8f1d52be"
+          }
+        },
+        {
+          "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQH3TgNeRIig07yuLL8jVXbHsVqYTURo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663048202005-iqe8ge1vtjsv5i34a820ni8v5vo8o0vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.priyo"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4699014280714646~3295881471"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663048202005:android:df781e1b42d15406",
+        "android_client_info": {
+          "package_name": "com.priyo.people.live.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663048202005-87bdmugvu5pr706och52gpu2oc8g8c88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyo.people",
+            "certificate_hash": "3ac523500d52a6e280ae84cebb6335ab8f1d52be"
+          }
+        },
+        {
+          "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQH3TgNeRIig07yuLL8jVXbHsVqYTURo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663048202005-iqe8ge1vtjsv5i34a820ni8v5vo8o0vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.priyo"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4699014280714646~3295881471"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663048202005:android:df781e1b42d15406",
+        "android_client_info": {
+          "package_name": "com.priyo.people.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663048202005-87bdmugvu5pr706och52gpu2oc8g8c88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyo.people",
+            "certificate_hash": "3ac523500d52a6e280ae84cebb6335ab8f1d52be"
+          }
+        },
+        {
+          "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQH3TgNeRIig07yuLL8jVXbHsVqYTURo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663048202005-iqe8ge1vtjsv5i34a820ni8v5vo8o0vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.priyo"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4699014280714646~3295881471"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663048202005:android:df781e1b42d15406",
+        "android_client_info": {
+          "package_name": "com.priyo.people.debug.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663048202005-87bdmugvu5pr706och52gpu2oc8g8c88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyo.people",
+            "certificate_hash": "3ac523500d52a6e280ae84cebb6335ab8f1d52be"
+          }
+        },
+        {
+          "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQH3TgNeRIig07yuLL8jVXbHsVqYTURo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663048202005-s96u8fcuevs68v9re2ohrm4fs4uh3fki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663048202005-iqe8ge1vtjsv5i34a820ni8v5vo8o0vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.priyo"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4699014280714646~3295881471"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/TourLayoutViewPager"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/title_view"
+        style="@style/TourTitleTextView"
+        android:text="Unlimited Content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/desc_view"/>
+
+    <TextView
+        android:id="@+id/desc_view"
+        style="@style/TourDescriptionTextView"
+        android:text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the "
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"/>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        style="@style/TourPageImageViewStyle"
+        android:src="@mipmap/tour_1"
+        android:layout_below="@+id/top_icon"
+        android:layout_marginHorizontal="40dp"
+        android:layout_above="@+id/title_view" />
+
+
+</RelativeLayout>

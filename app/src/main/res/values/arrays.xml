@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_arrays" translatable="false">
+        <item>male</item>
+        <item>female</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="religion_arrays" translatable="false">
+        <item>islam</item>
+        <item>hinduism</item>
+        <item>christianity</item>
+        <item>buddhism</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="meritial_status_arrays" translatable="false">
+        <item>unmarried</item>
+        <item>married</item>
+        <item>divorced</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="password_reset_arrays" translatable="false">
+        <item>@string/email</item>
+        <item>@string/mobile_number</item>
+    </string-array>
+
+    <string-array name="go_point_activity_options">
+        <item>@string/buy_points</item>
+        <item>@string/transfer_points</item>
+        <item>@string/withdraw_points</item>
+    </string-array>
+
+    <string-array name="people_near_area" translatable="false">
+        <item>1 Kilometres</item>
+        <item>5 Kilometres</item>
+        <item>10 Kilometres</item>
+        <item>20 Kilometres</item>
+        <item>50 Kilometres</item>
+    </string-array>
+
+    <string-array name="news_tab_title">
+        <item>Top Stories</item>
+        <item>Latest</item>
+        <item>Trending</item>
+        <item>Nearby</item>
+        <item>People</item>
+        <item>Organization</item>
+        <item>Video</item>
+        <item>Bangladesh</item>
+        <item>International</item>
+        <item>Politics</item>
+        <item>Business</item>
+        <item>Sports</item>
+        <item>Entertainment</item>
+        <item>Lifestyle</item>
+        <item>Technology</item>
+        <item>Off Topic</item>
+        <item>Opinion</item>
+    </string-array>
+
+    <string-array name="news_tab_title_popular">
+        <item>Top Stories</item>
+        <item>Latest</item>
+        <item>Trending</item>
+        <item>Nearby</item>
+        <item>Video</item>
+        <item>Bangladesh</item>
+        <item>International</item>
+        <item>Sports</item>
+    </string-array>
+
+    <string-array name="news_tab_title_other">
+        <item>Politics</item>
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>Lifestyle</item>
+        <item>Technology</item>
+        <item>Off Topic</item>
+        <item>Opinion</item>
+    </string-array>
+
+    <string-array name="wordsArray">
+        <item>10</item>
+        <item>200</item>
+    </string-array>
+</resources>
